@@ -15,10 +15,4 @@ const Questao03 = ({ cor }) => {
     )
 }
 
-// const styles = StyleSheet.create({
-//     cor: {
-//       color: "pink"
-//     }
-//   });
-
 export default Questao03;
