@@ -38,7 +38,6 @@ const estilos = StyleSheet.create({
         paddingBottom: 20,
         color: '#D81159',
         fontWeight: 'bold',
-
     },
     frase:{
         fontSize: 20,

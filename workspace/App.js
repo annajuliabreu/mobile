@@ -1,10 +1,16 @@
 import { StyleSheet, View, Text } from 'react-native';
+import Main from './components/tarefa02/Main';
+// import Home from './components/tarefa02/Home';
+// import MainScreen from './components/15Navigation/15NavStack/MainScreen';
+// import MyNetworking from './components/14MyNetworking/14MyNetworking';
+// import MyFlexBoxB from './components/13MyFlexbox/13FlexboxB';
+// import MyFlexBoxC from './components/13MyFlexbox/13FlexboxC';
+// import MyFlexBox from './components/13MyFlexbox/13FlexboxA';
 // import MyScrollView from './components/10MyScrollView';
 // import MyFlatList from './components/11MyFlatList';
-import MySectionList from './components/12MySectionList';
+// import MySectionList from './components/12MySectionList';
 // import Calculadora from './components/09Calculadora/09Calculadora';
 // import BeHealthy from './components/00OneBitCode/Projeto01/BeHealthy';
-// import BeHealth from './components/00OneBitCode/Projeto01/BeHealthy';
 // import MyTextInput from './components/07TextInput';
 // import JuntarFrases from './components/08JuntarFrases';
 // import Questao01 from './components/tarefa01/questao01';
@@ -37,7 +43,14 @@ export default function App() {
       {/* <Calculadora /> */}
       {/* <MyScrollView /> */}
       {/* <MyFlatList /> */}
-      <MySectionList />
+      {/* <MySectionList /> */}
+      {/* <MyFlexBox /> */}
+      {/* <MyFlexBoxB /> */}
+      {/* <MyFlexBoxC /> */}
+      {/* <MyNetworking /> */}
+      {/* <MainScreen /> */}
+      {/* <Home /> */}
+      <Main />
 
       {/* ------------------ */}
 
