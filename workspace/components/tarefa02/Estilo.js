@@ -19,7 +19,6 @@ const Estilo = StyleSheet.create({
         height: '40px',
         width: '300px',
         paddingBottom: '4px',
-        // backgroundColor: '#DBF92F',
     },
     input:{
         height: 48,

@@ -1,4 +1,4 @@
-import { View, Text, Button, TextInput } from 'react-native'
+import { View, Text, Button, Image } from 'react-native'
 import Estilo from './Estilo'
 
 const Perfil = ({ route, navigation }) => {
@@ -19,6 +19,7 @@ const Perfil = ({ route, navigation }) => {
 
             <View style={Estilo.botao}>
                 <Button
+                    color='#ea50a1'
                     title='Home'
                     onPress={() => navigation.popToTop()}
                 />
